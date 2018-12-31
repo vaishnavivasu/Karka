@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#406fb6</color>
+    <color name="colorPrimaryDark">#111111</color>
+    <color name="colorAccent">#44bdbd</color>
+    <color name="foreground_material_light">#020202</color>
+    <color name="accent_material_light">#f6fffe</color>
+    <color name="darkTeal">#e2e2e0</color>
+    <color name="kidYellow">#ffc401</color>
+    <color name="kidRed">#ff1a00</color>
+    <color name="kidBlue">#059dfc</color>
+    <color name="kidOrange">#f16007</color>
+    <color name="kidGreen">#50ef00</color>
+    <color name="kidViolet">#5b02df</color>
+    <color name="kidPink">#ff2fa9</color>
+    <color name="kidYellowTransparent">#50ffc401</color>
+    <color name="kidRedTransparent">#50ff1a00</color>
+    <color name="kidBlueTransparent">#cf05c2fc</color>
+    <color name="kidOrangeTransparent">#50f16007</color>
+    <color name="kidGreenTransparent">#5050ef00</color>
+    <color name="kidVioletTransparent">#505b02df</color>
+    <color name="kidPinkTransparent">#50ff2fa9</color>
+    <color name="darkTealTransparent">#80008080</color>
+    <color name="whiteTransparent">#50ffffff</color>
+
+</resources>

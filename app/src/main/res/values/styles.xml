@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="KarkaTheam" parent="Base.Theme.AppCompat.Light.DarkActionBar" >
+        <item name="android:colorForeground">@color/colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorPrimary">#ffc401</item>
+    </style>
+
+    <style name="PopupOverlay"></style>
+
+    <style name="AppBarOverlay"></style>
+
+</resources>

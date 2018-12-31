@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CplusplusFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TableLayout
+        android:id="@+id/table_cpp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="175dp">
+
+            <Button
+                android:id="@+id/CLesson1"
+                android:layout_width="140dp"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidYellow"
+                android:text="Lesson #1" />
+
+            <Button
+                android:id="@+id/CLesson2"
+                android:layout_width="57dp"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidBlue"
+                android:text="Lesson #2" />
+
+            <Button
+                android:id="@+id/CLesson3"
+                android:layout_width="190dp"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidBlue"
+                android:text="Lesson #3" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/CtextView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/CTest1"
+                android:layout_width="wrap_content"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidYellow"
+                android:text="Test #1" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/CLesson4"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidYellow"
+                android:text="Lesson #4" />
+
+            <Button
+                android:id="@+id/CLesson5"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidBlue"
+                android:text="Lesson #5" />
+
+            <Button
+                android:id="@+id/CLesson6"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidBlue"
+                android:text="Lesson #6" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/CtextView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/CtextView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/CTest2"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidYellow"
+                android:text="Test #2" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/CLesson7"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidBlue"
+                android:text="Lesson #7" />
+
+            <Button
+                android:id="@+id/CLesson8"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidYellow"
+                android:text="Lesson #8" />
+
+            <Button
+                android:id="@+id/CLesson9"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidBlue"
+                android:text="Lesson #9" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="175dp">
+
+            <Button
+                android:id="@+id/CTest3"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:backgroundTint="@color/kidYellow"
+                android:text="Test #3" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="223dp">
+
+            <TextView
+                android:id="@+id/CtextView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/CBackClass"
+                android:layout_width="match_parent"
+                android:layout_height="63dp"
+                android:backgroundTint="@color/kidBlue"
+                android:text="Back" />
+        </TableRow>
+
+    </TableLayout>
+
+</FrameLayout>
